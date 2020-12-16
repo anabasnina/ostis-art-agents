@@ -1,0 +1,12 @@
+{
+     "sources": [
+        
+        "src/theatre_adding-common.js",
+        "src/theatre_adding-paintPanel.js",
+        "src/theatre_adding-fileWriter.js"
+    ],
+
+    "component": "src/theatre_adding-component.js",
+
+    "target": "static/components/js/theatre_adding/theatre_adding.js"
+}

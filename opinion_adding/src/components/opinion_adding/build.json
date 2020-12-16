@@ -1,0 +1,12 @@
+{
+     "sources": [
+        
+        "src/opinion_adding-common.js",
+        "src/opinion_adding-paintPanel.js",
+        "src/opinion_adding-fileWriter.js"
+    ],
+
+    "component": "src/opinion_adding-component.js",
+
+    "target": "static/components/js/opinion_adding/opinion_adding.js"
+}
